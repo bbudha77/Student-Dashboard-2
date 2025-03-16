@@ -12,7 +12,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 📊 Key Metrics (Top Visuals)
 
-![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/520b0b54f87fd0b7fdb480c0bb592438449e6ffe/Screenshot%202025-03-16%20120016.png)
+![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/adc1585f05838e32aba7137a0c8b7bb66cdbca86/Screenshot%202025-03-16%20120025.png)
 
 - **4 Top Visuals**: 
   - **Total Students**
