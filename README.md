@@ -51,8 +51,8 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/9d67927be0c2bd2e7399bf2d34b2752c66ae5c4d/Screenshot%202025-03-16%20120036.png)
 
-- Compares student payment preferences (Credit Card, Cash, Online Payment, Bank Transfer).
-- Useful for financial planning and understanding student payment behavior.
+- Compares student enrollment  preferences in different dates.
+- Helps institutions track admission trends efficiently.
 
 
 ## Insights Gained
