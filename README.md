@@ -48,9 +48,9 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 - **Table Visualization** shows the number of students in different academic disciplines (Arts, Commerce, Engineering, Science).
 - Helps analyze student preference trends across various regions.
 
-### 4⃣ Bar Graph: Count of Student_ID by Payment Method
+### 4⃣ Line Graph: Count of Student_ID by Payment Method
 
-![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/131b4b9acc08a0cae9903d4ed88a9ec4dfaf54ea/Screenshot%202025-03-15%20204643.png)
+![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/9d67927be0c2bd2e7399bf2d34b2752c66ae5c4d/Screenshot%202025-03-16%20120036.png)
 
 - Compares student payment preferences (Credit Card, Cash, Online Payment, Bank Transfer).
 - Useful for financial planning and understanding student payment behavior.
