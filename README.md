@@ -28,7 +28,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 1⃣ Treemap: Total Books Returned in Months
 
-![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/66806c875885bb2b7fbd73e76a2a34bb7f9cf2e2/Screenshot%202025-03-15%20204601.png)
+![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/9f647c0dabb6a3d6372972d12b61502fb8c696da/Screenshot%202025-03-16%20120057.png)
 
 - Represents the distribution of books returned over different months.
 - Helps in understanding book return patterns among students.
@@ -54,12 +54,6 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 - Compares student payment preferences (Credit Card, Cash, Online Payment, Bank Transfer).
 - Useful for financial planning and understanding student payment behavior.
 
-### 5⃣ Enrollment Table: Student Enrollment by Date
-
-![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/6bc5d54370fd4297a87abb2f6a185bf11d7bfc16/Screenshot%202025-03-15%20204656.png)
-
-- Displays enrollment data over different time periods.
-- Helps institutions track admission trends efficiently.
 
 ## Insights Gained
 
