@@ -30,7 +30,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/9f647c0dabb6a3d6372972d12b61502fb8c696da/Screenshot%202025-03-16%20120057.png)
 
-- Represents the distribution of books returned over different months.
+- Represents the distribution of top 5 books returned over different months.
 - Helps in understanding book return patterns among students.
 
 ### 2⃣ Line and Stacked Column Chart: Payment Breakdown Over Months
