@@ -4,7 +4,7 @@
 
 This project analyzes **student performance data** using **Power BI** for data transformation, visualization, and insight generation. The dataset includes student grades, enrollment trends, and payment methods across different regions.
 
-![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/cbfb366bd10a890afcbdc2c44a5d122bd9a82dfb/Screenshot%202025-03-15%20202920.png)
+![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/7e3c195dd196a83cae083ac4042ce1ff63286564/Screenshot%202025-03-16%20115844.png)
 
 ## Dashboard Highlights
 
