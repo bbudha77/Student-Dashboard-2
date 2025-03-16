@@ -12,14 +12,16 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 📊 Key Metrics (Top Visuals)
 
-![image alt](/mnt/data/Screenshot%202025-03-16%20114727.png)
+![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/520b0b54f87fd0b7fdb480c0bb592438449e6ffe/Screenshot%202025-03-16%20120016.png)
 
 - **4 Top Visuals**: 
   - **Total Students**
   - **Total Courses**
   - **Total Pass**
   - **Total Fail**
-- **Dynamic Filters:** 
+- **Dynamic Filters:**
+- 
+ ![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/520b0b54f87fd0b7fdb480c0bb592438449e6ffe/Screenshot%202025-03-16%20120016.png)
   - **Department-Based Filtering** – Allows selection of students by department.
   - **Name-Based Filtering** – Allows selection of individual students.
 - **Page Navigator** on the left for easy navigation between different dashboard pages.
