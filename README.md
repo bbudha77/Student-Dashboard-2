@@ -35,8 +35,7 @@ The Power BI dashboard includes **five key insights** along with dynamic filters
 
 ### 2⃣ Line and Stacked Column Chart: Payment Breakdown Over Months
 
-![image alt](https://github.com/bbudha77/Student-Performance-Dashboard/blob/be3ed96c8ec1a097952c474ee9debd8ebe78900d/Screenshot%202025-03-15%20204617.png)
-
+![image alt](https://github.com/bbudha77/Student-Dashboard-2/blob/2d60d24462382196c05eaf219403a1ffd56e2d49/Screenshot%202025-03-16%20120045.png)
 - Displays payment trends over different months.
 - Shows the sum of payments made via different methods (Bank Transfer, Cash, Credit Card, Online Payment).
 - Helps analyze student payment behavior and financial trends.
